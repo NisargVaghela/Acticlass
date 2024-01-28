@@ -1,0 +1,21 @@
+# IDE Specific
+.vscode
+
+# Dependency directories
+node_modules
+package-lock.json
+
+# Log files
+.logs
+*.log
+
+# ENV files
+.env
+.env.*
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
+
+# Testing 
+/coverage
