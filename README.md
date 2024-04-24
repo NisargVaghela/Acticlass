@@ -8,8 +8,6 @@
 
 </div>
 
-## Summary
-
 Acticlass aims to enhance classroom interactivity through a versatile application. Teachers can create groups and facilitate student participation via QR codes. Gamification elements reward engagement, and students earn points by attending classes. Teachers control access based on physical presence. A leaderboard and CSV reports offer insights for an engaging learning experience.
 
 [![pipeline](https://img.shields.io/badge/pipeline-passed-green)](https://img.shields.io/badge/pipeline-passed-green) [![test](https://img.shields.io/badge/test-passed-green)](https://img.shields.io/badge/test-passed-green) [![coverage](https://img.shields.io/badge/coverage->90%25-blue)](https://img.shields.io/badge/coverage->90%25-blue)
@@ -359,24 +357,8 @@ Any user of the acticlass have the access to the leaderboard for any number of g
 
 | Name                                | Email           |
 | ----------------------------------- | --------------- |
+| NISARG SHARADKUMAR VAGHELA          | nvaghela@dal.ca |
 | KRISHNA VAIBHAV YADLAPALLI          | kr732880@dal.ca |
 | KULDEEP RAJESHBHAI GAJERA           | kl210309@dal.ca |
-| NISARG SHARADKUMAR VAGHELA          | nvaghela@dal.ca |
 | SHYAMAL PRAJAPATI                   | sgp@dal.ca      |
 | VENKATA SREENIVAS PRASAD KASIBHATLA | vn769140@dal.ca |
-
-### Client Team
-
-| Name                             | Email           |
-| -------------------------------- | --------------- |
-| Mohammed Noor Ul Hasan Kothaliya | mh478572@dal.ca |
-| RahulPuri                        | rh917388@dal.ca |
-| Samit Mhatre                     | sm904139@dal.ca |
-| Suyash Jhawer                    | sy326775@dal.ca |
-| Vishaka Vinod                    | vs235403@dal.ca |
-
----
-
-> Under the Supervison of
-> [Dr. Tushar Sharma](https://tusharma.in/) (Professor),
-> [Mootez Saad](https://www.linkedin.com/in/mootez-saad-118aa2151) (Head Teaching Assitant)
