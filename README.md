@@ -1,12 +1,7 @@
-<center>
-<img src="./Acticlass-App/ios/Acticlass/Images.xcassets/AppIcon.appiconset/180.png" alt="Acticlass Logo">
-</center>
+<img  align="center" src="./Acticlass-App/ios/Acticlass/Images.xcassets/AppIcon.appiconset/180.png" alt="Acticlass Logo">
 
-<div style="text-align: center">
 
 # Acticlass
-
-</div>
 
 Acticlass aims to enhance classroom interactivity through a versatile application. Teachers can create groups and facilitate student participation via QR codes. Gamification elements reward engagement, and students earn points by attending classes. Teachers control access based on physical presence. A leaderboard and CSV reports offer insights for an engaging learning experience.
 
