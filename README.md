@@ -343,17 +343,3 @@ Any user of the acticlass have the access to the leaderboard for any number of g
   <p align='center' style='margin-top:20px'>
   <img src='imgs/leaderboard.png' alt='LeaderBoard' height='400'>
 </p>
-
----
-
-## Credits :clap:
-
-### Developer Team
-
-| Name                                | Email           |
-| ----------------------------------- | --------------- |
-| NISARG SHARADKUMAR VAGHELA          | nvaghela@dal.ca |
-| KRISHNA VAIBHAV YADLAPALLI          | kr732880@dal.ca |
-| KULDEEP RAJESHBHAI GAJERA           | kl210309@dal.ca |
-| SHYAMAL PRAJAPATI                   | sgp@dal.ca      |
-| VENKATA SREENIVAS PRASAD KASIBHATLA | vn769140@dal.ca |
